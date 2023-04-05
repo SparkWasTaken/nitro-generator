@@ -6,4 +6,6 @@ execute in cmd with
 open the source e change the line 8 with your token, thats it.
 
 in linux:
-
+git clone https://github.com/SparkWasTaken/nitro-generator
+cd nitro-generator
+python nitro_gen.py
